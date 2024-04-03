@@ -65,7 +65,7 @@ I firmly believe in the power of collaboration and open source. I am committed t
 🚀 **Future Goals:**
 My long-term vision is to lead projects that innovate in the use of technology to solve complex problems and make a tangible difference in society ♥.
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contacte me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csluduena/)
