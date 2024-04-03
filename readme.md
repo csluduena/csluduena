@@ -2,7 +2,7 @@
 I'm a web developer graduate on <a target="_blank" href="https://www.coderhouse.com/ar/certificados/65c0a163a665c3fab6ccea9c?lang=es">CoderHouse</a>👨‍💻 from Argentina.</h2><br>
 
 > [!NOTE]
-> Feel free to explore my <a target="_blank" href="">Personal Resume</a>. <br> You can also check out some of my work in my <a target="_blank" href="">Portfolio</a>.
+> Feel free to explore my <a target="_blank" href="">Personal Resume</a>. <br> You can also check out some of my work in my <a target="_blank" href="https://github.com/csluduena?tab=repositories">Portfolio</a>.
 
 > [!IMPORTANT]
 > **I am open to work!**
