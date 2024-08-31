@@ -1,5 +1,5 @@
 <h2 align="center">Hello there!👋 I'm <b><a style="margin-bottom:120px;" target="_blank" href="https://csluduena.com.ar">Sebastian</a></b>.<br><br>
-I'm a web developer graduate on <a target="_blank" href="https://www.coderhouse.com/ar/certificados/65c0a163a665c3fab6ccea9c?lang=es">CoderHouse</a>👨‍💻 from Argentina.</h2><br>
+I'm a web developer from Argentina, passionate about building efficient and user-friendly web applications.</h2><br>
 
 > [!NOTE]
 > Feel free to explore my <a target="_blank" href="https://drive.google.com/file/d/1muj883BaAJYrrgPt9o-XTjEQIuxtwhII/view?usp=sharing">Personal Resume</a>. <br> You can also check out some of my work in my <a target="_blank" href="https://github.com/csluduena?tab=repositories">Portfolio</a>.
@@ -29,43 +29,41 @@ I'm a web developer graduate on <a target="_blank" href="https://www.coderhouse.
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Codeopen](https://img.shields.io/badge/_-codepen-_%23ffffff?style=for-the-badge&logo=react&logoColor=%23ffffff&labelColor=%23000000&color=%23000000)
+    ![Codepen](https://img.shields.io/badge/_-codepen-_%23ffffff?style=for-the-badge&logo=react&logoColor=%23ffffff&labelColor=%23000000&color=%23000000)
     ![Photoshop](https://img.shields.io/badge/_-adobe_photoshop-_%23ffffff?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF&labelColor=00171E&color=00171E)
     ![Canva](https://img.shields.io/badge/-Canva-20c4cb?style=for-the-badge&logo=canva&logoColor=white)
 <br>
 
-## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></picture> **About me**
-
-<br>
+## About me
 
 👀 **Interests:**
-I'm fascinated by the world of web development and everything related to technology and innovation.
+I'm focused on front-end development, aiming to create seamless and accessible user interfaces.
 
 🌱 **Currently Learning:**
-I'm expanding my knowledge in Fullstack Javascript and exploring new technologies emerging on the digital horizon.
+I’m advancing my knowledge in Fullstack JavaScript and modern front-end frameworks.
+
+💼 **Recent Experience:**
+With a strong foundation in front-end technologies, I’ve contributed to various projects, enhancing their usability and performance.
 
 💞️ **Looking to Collaborate On:**
-Exciting projects that seek to make a difference, especially those using open source to educate and empower communities.
+Web development projects that challenge the status quo and prioritize user experience.
 
 📫 **How to Reach Me:**
 You can send me a direct message here on GitHub or contact me via csluduena@gmail.com.
 
-⚡ **Fun Fact:**
-Besides being a developer, I'm a musician. I enjoy playing instruments, interpreting melodies, and composing songs. Music is my second passion!
-
 🎓 **Education and Experience:**
-I am a professional with a solid background in web development; you can review my websites and work on my GitHub. My education at CoderHouse and practical experience have provided me with a solid foundation in industry best practices and a commitment to quality.
+I hold a web development certification from CoderHouse, and I have hands-on experience in developing and optimizing web applications.
 
 🔍 **Professional Focus:**
-My focus is on efficiency, usability, and accessibility, ensuring that each project not only meets technical requirements but also provides an exceptional user experience.
+I focus on building responsive, efficient, and visually appealing web applications that meet both user needs and business objectives.
 
 🤝 **Commitment to the Community:**
-I firmly believe in the power of collaboration and open source. I am committed to contributing to the developer community by sharing code, tutorials, and participating in programming events.
+I actively participate in the developer community by sharing knowledge and contributing to open-source projects.
 
 🚀 **Future Goals:**
-My long-term vision is to lead projects that innovate in the use of technology to solve complex problems and make a tangible difference in society ♥.
+My goal is to continue improving my skills and contribute to innovative projects that drive the future of web development.
 
-<h3 align="center">Contacte me:</h3>
+<h3 align="center">Contact me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csluduena/)
@@ -75,4 +73,3 @@ My long-term vision is to lead projects that innovate in the use of technology t
 
 <img style="width: 630px; height: 310px;" src="https://raw.githubusercontent.com/csluduena/Dunder-Mifflin-webStyle/main/img/csluduena.png">
 </div>
-
