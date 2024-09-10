@@ -2,7 +2,7 @@
 I'm a web developer from Argentina, passionate about building efficient and user-friendly web applications.</h2><br>
 
 > [!NOTE]
-> Feel free to explore my <a target="_blank" href="https://drive.google.com/file/d/1muj883BaAJYrrgPt9o-XTjEQIuxtwhII/view?usp=sharing">Personal Resume</a>. <br> You can also check out some of my work in my <a target="_blank" href="https://github.com/csluduena?tab=repositories">Portfolio</a>.
+> Feel free to explore my <a target="_blank" href="[https://drive.google.com/file/d/1muj883BaAJYrrgPt9o-XTjEQIuxtwhII/view?usp=sharing](https://drive.google.com/file/d/1aDjvPs7tI-KOllk5B9mq11F3yQmAB1SF/view)">Personal Resume</a>. <br> You can also check out some of my work in my <a target="_blank" href="https://github.com/csluduena?tab=repositories">Portfolio</a>.
 
 > [!IMPORTANT]
 > **I am open to work!**
