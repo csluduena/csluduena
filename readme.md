@@ -1,5 +1,5 @@
-<h2 align="center">Hello there!👋 I'm <b><a style="margin-bottom:120px;" target="_blank" href="https://csluduena.com.ar">Sebastian</a></b>.<br><br>
-I'm a Full Stack Developer specializing in **MERN (MongoDB, Express, React, Node.js), TypeScript, and Python**, with expertise in **Odoo Development**. Passionate about building scalable, efficient, and user-friendly web applications.</h2><br>
+<h2 align="center">Hello there!👋 I'm <b><a style="margin-bottom:120px;" target="_blank" href="https://csluduena.com">Sebastian</a></b>.<br><br>
+I'm a Full Stack Developer specializing in MERN (MongoDB, Express, React, Node.js), TypeScript, and Python, with expertise in Odoo Development. Passionate about building scalable, efficient, and user-friendly web applications.<br><br></h2><br>
 
 > [!NOTE]
 > Feel free to explore my <a target="_blank" href="https://drive.google.com/file/d/1aDjvPs7tI-KOllk5B9mq11F3yQmAB1SF/view">Personal Resume</a>. <br> You can also check out some of my work in my <a target="_blank" href="https://github.com/csluduena?tab=repositories">Portfolio</a>.
